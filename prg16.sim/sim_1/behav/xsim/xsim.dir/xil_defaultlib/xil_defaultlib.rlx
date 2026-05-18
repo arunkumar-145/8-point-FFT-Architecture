@@ -1,0 +1,7 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/FFT/FFT Architecture/fft8_core.v,1775834956,verilog,,D:/FFT/FFT Architecture/fft8_tb.v,,fft8_core;twiddle_mult,,,,,,,,
+D:/FFT/FFT Architecture/fft8_tb.v,1775834876,verilog,,,,fft8_tb,,,,,,,,
+D:/FFT/FFT Architecture/prg16.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="fft8_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="fft8_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="50682353fs"></ZoomEndTime>
+      <Cursor1Time time="120000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="96"></NameColumnWidth>
+      <ValueColumnWidth column_width="72"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="34" />
+   <wvobject fp_name="/fft8_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/x0r" type="array">
+      <obj_property name="ElementShortName">x0r[15:0]</obj_property>
+      <obj_property name="ObjectShortName">x0r[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/x0i" type="array">
+      <obj_property name="ElementShortName">x0i[15:0]</obj_property>
+      <obj_property name="ObjectShortName">x0i[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/x1r" type="array">
+      <obj_property name="ElementShortName">x1r[15:0]</obj_property>
+      <obj_property name="ObjectShortName">x1r[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/x1i" type="array">
+      <obj_property name="ElementShortName">x1i[15:0]</obj_property>
+      <obj_property name="ObjectShortName">x1i[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/x2r" type="array">
+      <obj_property name="ElementShortName">x2r[15:0]</obj_property>
+      <obj_property name="ObjectShortName">x2r[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/x2i" type="array">
+      <obj_property name="ElementShortName">x2i[15:0]</obj_property>
+      <obj_property name="ObjectShortName">x2i[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/x3r" type="array">
+      <obj_property name="ElementShortName">x3r[15:0]</obj_property>
+      <obj_property name="ObjectShortName">x3r[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/x3i" type="array">
+      <obj_property name="ElementShortName">x3i[15:0]</obj_property>
+      <obj_property name="ObjectShortName">x3i[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/x4r" type="array">
+      <obj_property name="ElementShortName">x4r[15:0]</obj_property>
+      <obj_property name="ObjectShortName">x4r[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/x4i" type="array">
+      <obj_property name="ElementShortName">x4i[15:0]</obj_property>
+      <obj_property name="ObjectShortName">x4i[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/x5r" type="array">
+      <obj_property name="ElementShortName">x5r[15:0]</obj_property>
+      <obj_property name="ObjectShortName">x5r[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/x5i" type="array">
+      <obj_property name="ElementShortName">x5i[15:0]</obj_property>
+      <obj_property name="ObjectShortName">x5i[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/x6r" type="array">
+      <obj_property name="ElementShortName">x6r[15:0]</obj_property>
+      <obj_property name="ObjectShortName">x6r[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/x6i" type="array">
+      <obj_property name="ElementShortName">x6i[15:0]</obj_property>
+      <obj_property name="ObjectShortName">x6i[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/x7r" type="array">
+      <obj_property name="ElementShortName">x7r[15:0]</obj_property>
+      <obj_property name="ObjectShortName">x7r[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/x7i" type="array">
+      <obj_property name="ElementShortName">x7i[15:0]</obj_property>
+      <obj_property name="ObjectShortName">x7i[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/y0r" type="array">
+      <obj_property name="ElementShortName">y0r[15:0]</obj_property>
+      <obj_property name="ObjectShortName">y0r[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/y0i" type="array">
+      <obj_property name="ElementShortName">y0i[15:0]</obj_property>
+      <obj_property name="ObjectShortName">y0i[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/y1r" type="array">
+      <obj_property name="ElementShortName">y1r[15:0]</obj_property>
+      <obj_property name="ObjectShortName">y1r[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/y1i" type="array">
+      <obj_property name="ElementShortName">y1i[15:0]</obj_property>
+      <obj_property name="ObjectShortName">y1i[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/y2r" type="array">
+      <obj_property name="ElementShortName">y2r[15:0]</obj_property>
+      <obj_property name="ObjectShortName">y2r[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/y2i" type="array">
+      <obj_property name="ElementShortName">y2i[15:0]</obj_property>
+      <obj_property name="ObjectShortName">y2i[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/y3r" type="array">
+      <obj_property name="ElementShortName">y3r[15:0]</obj_property>
+      <obj_property name="ObjectShortName">y3r[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/y3i" type="array">
+      <obj_property name="ElementShortName">y3i[15:0]</obj_property>
+      <obj_property name="ObjectShortName">y3i[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/y4r" type="array">
+      <obj_property name="ElementShortName">y4r[15:0]</obj_property>
+      <obj_property name="ObjectShortName">y4r[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/y4i" type="array">
+      <obj_property name="ElementShortName">y4i[15:0]</obj_property>
+      <obj_property name="ObjectShortName">y4i[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/y5r" type="array">
+      <obj_property name="ElementShortName">y5r[15:0]</obj_property>
+      <obj_property name="ObjectShortName">y5r[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/y5i" type="array">
+      <obj_property name="ElementShortName">y5i[15:0]</obj_property>
+      <obj_property name="ObjectShortName">y5i[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/y6r" type="array">
+      <obj_property name="ElementShortName">y6r[15:0]</obj_property>
+      <obj_property name="ObjectShortName">y6r[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/y6i" type="array">
+      <obj_property name="ElementShortName">y6i[15:0]</obj_property>
+      <obj_property name="ObjectShortName">y6i[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/y7r" type="array">
+      <obj_property name="ElementShortName">y7r[15:0]</obj_property>
+      <obj_property name="ObjectShortName">y7r[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fft8_tb/y7i" type="array">
+      <obj_property name="ElementShortName">y7i[15:0]</obj_property>
+      <obj_property name="ObjectShortName">y7i[15:0]</obj_property>
+   </wvobject>
+</wave_config>
